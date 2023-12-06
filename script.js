@@ -2,7 +2,7 @@ const person = {
     profile_pic: "./image/shani.jpeg",
     profile_logo: "./image/DBI.jpg",
 
-    Name: "Shanis Shani",
+    Name: "Muhammad Farooq",
     designation: "Director",
     des_link_text: "@ U TERN",
     des_link: "",
