@@ -1,19 +1,19 @@
 const person = {
-    profile_pic: "./image/shani.jpeg",
+    profile_pic: "./image/farooque.jpeg",
     profile_logo: "./image/DBI.jpg",
 
     Name: "Muhammad Farooq",
-    designation: "Director",
-    des_link_text: "@ U TERN",
-    des_link: "",
-    contact: "./contact/jee.vcf",
+    designation: "Managing Director",
+    des_link_text: "@FSA Trading",
+    des_link: "fsatrading.com",
+    contact: "./contact/farooque.vcf",
 };
 
 const contact ={
-    contact_no: "+918592072048",
-    whatsapp: "+918592072048",
-    location: "",
-    email: "Shanishanid012@gmail.com",
+    contact_no: "+971525190800",
+    whatsapp: "+971525190800",
+    location: "https://maps.google.com/?q=25.275780,55.309235",
+    email: "fsatrading786@gmail.com",
 };
 
 const profilelogo=[
@@ -27,23 +27,23 @@ const profilelogo=[
 const links =[
     facebook={
     visibil: true,
-    link:"https://www.facebook.com/abdulraoof.jee.5?mibextid=LQQJ4d"
+    link:"https://www.facebook.com/fsatrading"
   },
     instagram={
     visibil: true,
-    link:"https://instagram.com/s_hani_d_2048?igshid=NzZlODBkYWE4Ng=="
+    link:"https://instagram.com/fsatrading?igshid=MzRlODBiNWFlZA=="
   },
     skype={
     visibil: false,
     link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
   },
     web={
-    visibil: false,
-    link:"https://neptunemark.com/"
+    visibil: true,
+    link:"https://fsatrading.com/"
   },
     linkedin={
-    visibil: false,
-    link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
+    visibil: true,
+    link:"https://maps.app.goo.https://www.linkedin.com/in/muhammad-farooq-065b99296?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=android_appgl/zMguVmn3NbNHkdAb7"
   },
     behance={
     visibil: false,
@@ -55,19 +55,19 @@ const links =[
   },
     mail={
     visibil: true,
-    link:"Shanishanid012@gmail.com"
+    link:"fsatrading786@gmail.com"
   },
     google={
-    visibil: false,
-    link:"https://navigotrips.com/"
+    visibil: true,
+    link:"https://g.page/r/CTuFRiyLOPeaEBM/review"
   },
     telegram={
     visibil: false,
     link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
   },
     youtube={
-    visibil: false,
-    link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
+    visibil: true,
+    link:"https://www.youtube.com/@fsatrading1"
   },
     pinterest={
     visibil: false,
